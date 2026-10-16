@@ -4,7 +4,7 @@
 
 A stylish and responsive watch company website designed to showcase luxury timepieces, explore different watch collections, and provide visitors with an engaging browsing experience.
 
-🔗 **Live Demo:** [View Alberto Watch Company](https://mariumtabbasum-coder.github.io/Alberto-Watch-Company/)
+🔗 **Live Demo:** [View Alberto Watch Company](https://mariumtabbasum-coder.github.io/Alberto-Watch-Company-SEO/)
 
 ---
 
