@@ -4,7 +4,7 @@
 
 A stylish and responsive watch company website designed to showcase luxury timepieces, explore different watch collections, and provide visitors with an engaging browsing experience.
 
-🔗 **Live Demo:** [View Alberto Watch Company](https://mariumtabbasum-coder.github.io/Alberto-Watch-Company/)
+🔗 **Live Demo:** [View Alberto Watch Company](https://mariumtabbasum-coder.github.io/Alberto-Watch-Company-SEO/)
 
 ---
 
@@ -221,7 +221,7 @@ Software Engineering Student | Aspiring Front-End Developer
 I am continuously learning, building projects, and improving my web development skills through practical implementation.
 
 - **GitHub:** [mariumtabbasum-coder](https://github.com/mariumtabbasum-coder)
-- **Live Project:** [Alberto Watch Company](https://mariumtabbasum-coder.github.io/Alberto-Watch-Company/)
+- **Live Project:** [Alberto Watch Company](https://mariumtabbasum-coder.github.io/Alberto-Watch-Company-SEO/)
 
 ## 📄 License
 
